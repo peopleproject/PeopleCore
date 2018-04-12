@@ -1,2 +1,2 @@
-People Core staging tree 1.1.0.2
+People Core staging tree 2.0.0.0
 ===============================
